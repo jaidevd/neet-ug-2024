@@ -1,0 +1,6 @@
+*.html
+pdfs/*.pdf
+*.csv
+*.tsv
+*.links.txt
+*.tar.bz2
